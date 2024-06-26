@@ -1,4 +1,4 @@
-### Gemini-CLone
+### Gemini-Clone
 - I have integrated the gemini api with react js.
 - In the src folder create a directory with name `config`.
 - In the config folder create `gemini.js` file.
